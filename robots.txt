@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ryan-nerd.github.io/sitemap-index.xml
+Host: https://ryan-nerd.github.io
