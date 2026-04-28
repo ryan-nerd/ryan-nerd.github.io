@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/reflection/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Am I Really a Startup Engineer?","description":"Looking back at my first startup years and asking what I really want to build","date":"2026-04-28T00:00:00.000Z","slug":"/blog/am-i-really-a-startup-engineer","tags":["Startup","Career","Reflection"]}}}]}},"pageContext":{"tag":"Reflection"}},
+    "staticQueryHashes": ["2009693873","2077189868","3303540520","3505212370","3825832676"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-tags-js",
     "path": "/blog/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"AI","totalCount":1},{"fieldValue":"Blogging","totalCount":1},{"fieldValue":"Culture","totalCount":4},{"fieldValue":"Customer","totalCount":1},{"fieldValue":"HR","totalCount":1},{"fieldValue":"Product","totalCount":1},{"fieldValue":"Startup","totalCount":1},{"fieldValue":"Tech","totalCount":2}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"AI","totalCount":1},{"fieldValue":"Blogging","totalCount":1},{"fieldValue":"Career","totalCount":1},{"fieldValue":"Culture","totalCount":4},{"fieldValue":"Customer","totalCount":1},{"fieldValue":"HR","totalCount":1},{"fieldValue":"Product","totalCount":1},{"fieldValue":"Reflection","totalCount":1},{"fieldValue":"Startup","totalCount":2},{"fieldValue":"Tech","totalCount":2}]}},"pageContext":{}},
     "staticQueryHashes": ["2009693873","2077189868","3303540520","3505212370","3825832676"]}
